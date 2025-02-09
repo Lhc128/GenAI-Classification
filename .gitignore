@@ -2,4 +2,4 @@
 .env
 
 #Ignores os arquivos de base de dados
-.zip
+*.zip
